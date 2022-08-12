@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadAminW
-- 👀 I’m interested in ...front end developing
-- 🌱 I’m currently learning ...html
+- 👀 I’m interested in ...embedded systems and c++ programming
+- 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mamin181@yahoo.com
 
